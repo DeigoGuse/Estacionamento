@@ -1,0 +1,13 @@
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\obj\Debug\netcoreapp3.1\EstacionamentoShopping.csprojAssemblyReference.cache
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\obj\Debug\netcoreapp3.1\EstacionamentoShopping.AssemblyInfoInputs.cache
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\obj\Debug\netcoreapp3.1\EstacionamentoShopping.AssemblyInfo.cs
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\obj\Debug\netcoreapp3.1\EstacionamentoShopping.csproj.CoreCompileInputs.cache
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\bin\Debug\netcoreapp3.1\EstacionamentoShopping.exe
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\bin\Debug\netcoreapp3.1\EstacionamentoShopping.deps.json
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\bin\Debug\netcoreapp3.1\EstacionamentoShopping.runtimeconfig.json
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\bin\Debug\netcoreapp3.1\EstacionamentoShopping.runtimeconfig.dev.json
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\bin\Debug\netcoreapp3.1\EstacionamentoShopping.dll
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\bin\Debug\netcoreapp3.1\EstacionamentoShopping.pdb
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\obj\Debug\netcoreapp3.1\EstacionamentoShopping.dll
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\obj\Debug\netcoreapp3.1\EstacionamentoShopping.pdb
+C:\Users\diego.guse\source\repos\EstacionamentoShopping\EstacionamentoShopping\obj\Debug\netcoreapp3.1\EstacionamentoShopping.genruntimeconfig.cache
